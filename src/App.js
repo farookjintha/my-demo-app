@@ -3,7 +3,8 @@ import './App.css';
 
 import ComponentA from './Components/ComponentA';
 import ComponentB from './Components/ComponentB';
-import ComponentC from './Components/ComponentC';
+import ComponentF from './Components/ComponentF';
+// import ComponentC from './Components/ComponentC';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <h2>My Demo App</h2>
       {/* <ComponentA /> */}
       {/* <ComponentB /> */}
-      <ComponentC />
+      <ComponentF />
     </div>
   );
 }
